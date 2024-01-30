@@ -25,7 +25,7 @@ const Projects = () => {
 
                     <div className="description w-[1000px] h-[250px] flex items-center">
                         <p className="text-black font-roboto text-[25px] font-[600] leading-[40px] text-center ">A Country App is a mobile or web application designed to provide information about various countries. 
-                        It typically includes features such as country details, flags, maps, currency, population, languages, and more.
+                        It typically includes features such as; country details, flags, maps, currency, population, languages, and more.
                         Users can explore and compare information about different countries, making it a handy tool for travelers, students, or anyone interested in global data. </p>
                     </div>
 
