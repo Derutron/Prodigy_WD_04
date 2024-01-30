@@ -86,7 +86,7 @@ const About = () => {
 
 
     {/* CERTIFICATION */}
-    <div className="summary w-[400px] h-[70px] -mt-[40px] flex justify-center items-center">
+    <div className="summary w-[400px] h-[70px] -mt-[40px] ml-8 flex justify-center items-center">
                       <p className="font-mono uppercase text-[35px] font-[900]">CERTIFICATION</p>
                   </div>
 
