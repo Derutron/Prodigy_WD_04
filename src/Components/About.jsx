@@ -1,9 +1,3 @@
-
-
-
-
-
-
 const About = () => {
   return (
 
